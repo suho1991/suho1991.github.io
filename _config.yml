@@ -1,7 +1,7 @@
 # Site settings
 title: 신수호의 포트폴리오
 description: 신수호의 포트폴리오
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/suho1991.github.io" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
